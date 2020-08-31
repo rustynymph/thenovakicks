@@ -1,0 +1,25 @@
+header.masthead {
+    background: rgba(10, 10, 10, 1);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: scroll;
+    background-size: cover;
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+  }
+
+  body {
+    background: rgba(10, 10, 10, 1);
+  }
+
+  #mainNav {
+    display: none;
+  }
+
+#novakicksbanner {
+    margin-bottom: 20px;
+}
+
+a.social {
+      width: 20px;
+  }
