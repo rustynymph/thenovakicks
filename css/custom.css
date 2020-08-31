@@ -23,3 +23,8 @@ header.masthead {
 a.social {
       width: 20px;
   }
+
+  .spotify_audio_player {
+      height:80px !important;
+      margin-top: 20px;
+    }
