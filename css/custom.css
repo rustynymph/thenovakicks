@@ -1,5 +1,6 @@
 header.masthead {
     background: rgba(10, 10, 10, 1);
+    background:  url("../img/novakickslegs.png");
     background-position: center;
     background-repeat: no-repeat;
     background-attachment: scroll;
@@ -28,3 +29,14 @@ a.social {
       margin-top: 20px;
     }
 
+
+a {
+  color: #ffffff;
+  text-decoration: none;
+  background-color: transparent;
+}
+
+a:hover {
+  color: #ababab;
+
+}
