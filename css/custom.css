@@ -4,10 +4,15 @@ header.masthead {
     background-position: center;
     background-repeat: no-repeat;
     background-attachment: scroll;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
     background-size: cover;
     padding-top: 1rem;
     padding-bottom: 1rem;
+    height: 100vh; /*remove if adding content under header that needs to appear on smaller screens!*/
   }
+
 
   body {
     background: rgba(10, 10, 10, 1);
