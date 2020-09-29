@@ -13,6 +13,9 @@ header.masthead {
     height: 100vh; /*remove if adding content under header that needs to appear on smaller screens!*/
   }
 
+.copyright-text {
+  font-size: .33rem !important;
+}
 
   body {
     background: rgba(10, 10, 10, 1);
